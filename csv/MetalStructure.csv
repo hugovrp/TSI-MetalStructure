@@ -1,0 +1,4 @@
+Peça;Quantidade;Material;Raio;Altura;Largura;Profundidade;Aresta
+cilindro;2;ferro;4;6;-;-;-
+cubo;2;ferro;-;-;-;-;2
+paralelepipedo;2;aluminio;-;8;4;16;-
